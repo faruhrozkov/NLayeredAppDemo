@@ -1,0 +1,18 @@
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.Entities\bin\Debug\Northwind.Entities.dll
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.Entities\bin\Debug\Northwind.Entities.pdb
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.Entities\obj\Debug\Northwind.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.Entities\obj\Debug\Northwind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.Entities\obj\Debug\Northwind.Entities.dll
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.Entities\obj\Debug\Northwind.Entities.pdb
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\NLayeredAppDemo\NLayeredAppDemo\Northwind.Entities\bin\Debug\Northwind.Entities.dll
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\NLayeredAppDemo\NLayeredAppDemo\Northwind.Entities\bin\Debug\Northwind.Entities.pdb
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\NLayeredAppDemo\NLayeredAppDemo\Northwind.Entities\obj\Debug\Northwind.Entities.csproj.AssemblyReference.cache
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\NLayeredAppDemo\NLayeredAppDemo\Northwind.Entities\obj\Debug\Northwind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\NLayeredAppDemo\NLayeredAppDemo\Northwind.Entities\obj\Debug\Northwind.Entities.dll
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\NLayeredAppDemo\NLayeredAppDemo\Northwind.Entities\obj\Debug\Northwind.Entities.pdb
+C:\C#\NLayeredAppDemo\NLayeredAppDemo\Northwind.Entities\bin\Debug\Northwind.Entities.dll
+C:\C#\NLayeredAppDemo\NLayeredAppDemo\Northwind.Entities\bin\Debug\Northwind.Entities.pdb
+C:\C#\NLayeredAppDemo\NLayeredAppDemo\Northwind.Entities\obj\Debug\Northwind.Entities.csproj.AssemblyReference.cache
+C:\C#\NLayeredAppDemo\NLayeredAppDemo\Northwind.Entities\obj\Debug\Northwind.Entities.csproj.CoreCompileInputs.cache
+C:\C#\NLayeredAppDemo\NLayeredAppDemo\Northwind.Entities\obj\Debug\Northwind.Entities.dll
+C:\C#\NLayeredAppDemo\NLayeredAppDemo\Northwind.Entities\obj\Debug\Northwind.Entities.pdb

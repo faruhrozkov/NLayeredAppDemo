@@ -1,0 +1,81 @@
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Northwind.WebFormsUI.exe.config
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Northwind.WebFormsUI.exe
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Northwind.WebFormsUI.pdb
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Northwind.Business.dll
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Northwind.DataAccess.dll
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Northwind.Entities.dll
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\EntityFramework.dll
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Northwind.Business.pdb
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Northwind.DataAccess.pdb
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Northwind.DataAccess.dll.config
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Northwind.Entities.pdb
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\EntityFramework.xml
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.csprojResolveAssemblyReference.cache
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.Form1.resources
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.Properties.Resources.resources
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.csproj.GenerateResource.Cache
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.csproj.CoreCompileInputs.cache
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.exe
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.pdb
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Northwind.Business.dll.config
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\FluentValidation.dll
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\FluentValidation.xml
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Ninject.dll
+C:\Users\Engin\source\repos\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Ninject.xml
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Northwind.WebFormsUI.exe.config
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Northwind.WebFormsUI.exe
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Northwind.WebFormsUI.pdb
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\EntityFramework.dll
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Ninject.dll
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Northwind.Business.dll
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Northwind.DataAccess.dll
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Northwind.Entities.dll
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\FluentValidation.dll
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Northwind.Business.pdb
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Northwind.Business.dll.config
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Northwind.DataAccess.pdb
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Northwind.DataAccess.dll.config
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Northwind.Entities.pdb
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\EntityFramework.xml
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Ninject.xml
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\FluentValidation.xml
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.csproj.AssemblyReference.cache
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.Form1.resources
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.Properties.Resources.resources
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.csproj.GenerateResource.cache
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.csproj.CoreCompileInputs.cache
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.csproj.CopyComplete
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.exe
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.pdb
+C:\C#\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Northwind.WebFormsUI.exe.config
+C:\C#\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Northwind.WebFormsUI.exe
+C:\C#\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Northwind.WebFormsUI.pdb
+C:\C#\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\EntityFramework.dll
+C:\C#\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\C#\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Ninject.dll
+C:\C#\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Northwind.Business.dll
+C:\C#\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Northwind.DataAccess.dll
+C:\C#\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Northwind.Entities.dll
+C:\C#\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\FluentValidation.dll
+C:\C#\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Northwind.Business.pdb
+C:\C#\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Northwind.Business.dll.config
+C:\C#\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Northwind.DataAccess.pdb
+C:\C#\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Northwind.DataAccess.dll.config
+C:\C#\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Northwind.Entities.pdb
+C:\C#\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\EntityFramework.xml
+C:\C#\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\C#\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Ninject.xml
+C:\C#\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\FluentValidation.xml
+C:\C#\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.csproj.AssemblyReference.cache
+C:\C#\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.csproj.SuggestedBindingRedirects.cache
+C:\C#\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.Form1.resources
+C:\C#\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.Properties.Resources.resources
+C:\C#\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.csproj.GenerateResource.cache
+C:\C#\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.csproj.CoreCompileInputs.cache
+C:\C#\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.csproj.CopyComplete
+C:\C#\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.exe
+C:\C#\NLayeredAppDemo\NLayeredAppDemo\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.pdb
